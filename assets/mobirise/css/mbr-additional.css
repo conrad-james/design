@@ -624,92 +624,6 @@ h6,
 
 
 
-#ext_menu-3n .hide-buttons .nav-btn {
-  display: none !important;
-}
-#ext_menu-3n .navbar-caption {
-  color: #ffffff;
-}
-#ext_menu-3n .navbar-toggler {
-  color: #fac51c;
-}
-#ext_menu-3n .close-icon::before,
-#ext_menu-3n .close-icon::after {
-  background-color: #fac51c;
-}
-#ext_menu-3n .link,
-#ext_menu-3n .dropdown-item {
-  color: #fac51c;
-  font-family: 'Lato', sans-serif;
-}
-#ext_menu-3n .link {
-  font-size: 0.75rem;
-}
-#ext_menu-3n .dropdown-item,
-#ext_menu-3n .nav-dropdown-sm .link {
-  font-size: 0.812rem;
-}
-#ext_menu-3n .link:hover,
-#ext_menu-3n .dropdown-item:hover,
-#ext_menu-3n .link:focus,
-#ext_menu-3n .dropdown-item:focus {
-  color: #fac51c;
-}
-#ext_menu-3n .link[aria-expanded="true"],
-#ext_menu-3n .dropdown-menu {
-  background: #e6e6e6;
-}
-#ext_menu-3n .nav-dropdown-sm .link:focus,
-#ext_menu-3n .nav-dropdown-sm .link:hover,
-#ext_menu-3n .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-3n .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
-}
-#ext_menu-3n .navbar,
-#ext_menu-3n .nav-dropdown-sm,
-#ext_menu-3n .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-3n .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
-}
-#ext_menu-3n .bg-color.transparent .link {
-  color: #fac51c;
-  transition: none;
-}
-#ext_menu-3n .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-3n .bg-color.transparent.opened .link:hover,
-#ext_menu-3n .bg-color.transparent.opened .link:focus {
-  color: #fac51c;
-}
-#ext_menu-3n .link[aria-expanded="true"],
-#ext_menu-3n .dropdown-item[aria-expanded="true"] {
-  color: #fac51c!important;
-}
-#slider-3p H2 {
-  font-size: 48px;
-  text-align: left;
-  color: #000000;
-  font-family: 'Montserrat', sans-serif;
-}
-#slider-3p P {
-  font-size: 16px;
-  font-family: 'Lato', sans-serif;
-}
-#slider-3p SPAN {
-  font-size: 22px;
-  font-family: 'Montserrat', sans-serif;
-  color: #000000;
-}
-#content6-3q P {
-  font-family: 'Lato', sans-serif;
-  font-size: 14px;
-}
-
-
-
-
-
 #ext_menu-2n .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1438,6 +1352,92 @@ h6,
   color: #fac51c!important;
 }
 #content6-4f P {
+  font-family: 'Lato', sans-serif;
+  font-size: 14px;
+}
+
+
+
+
+
+#ext_menu-3n .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-3n .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-3n .navbar-toggler {
+  color: #fac51c;
+}
+#ext_menu-3n .close-icon::before,
+#ext_menu-3n .close-icon::after {
+  background-color: #fac51c;
+}
+#ext_menu-3n .link,
+#ext_menu-3n .dropdown-item {
+  color: #fac51c;
+  font-family: 'Lato', sans-serif;
+}
+#ext_menu-3n .link {
+  font-size: 0.75rem;
+}
+#ext_menu-3n .dropdown-item,
+#ext_menu-3n .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#ext_menu-3n .link:hover,
+#ext_menu-3n .dropdown-item:hover,
+#ext_menu-3n .link:focus,
+#ext_menu-3n .dropdown-item:focus {
+  color: #fac51c;
+}
+#ext_menu-3n .link[aria-expanded="true"],
+#ext_menu-3n .dropdown-menu {
+  background: #e6e6e6;
+}
+#ext_menu-3n .nav-dropdown-sm .link:focus,
+#ext_menu-3n .nav-dropdown-sm .link:hover,
+#ext_menu-3n .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-3n .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#ext_menu-3n .navbar,
+#ext_menu-3n .nav-dropdown-sm,
+#ext_menu-3n .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-3n .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#ext_menu-3n .bg-color.transparent .link {
+  color: #fac51c;
+  transition: none;
+}
+#ext_menu-3n .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-3n .bg-color.transparent.opened .link:hover,
+#ext_menu-3n .bg-color.transparent.opened .link:focus {
+  color: #fac51c;
+}
+#ext_menu-3n .link[aria-expanded="true"],
+#ext_menu-3n .dropdown-item[aria-expanded="true"] {
+  color: #fac51c!important;
+}
+#slider-3p H2 {
+  font-size: 48px;
+  text-align: left;
+  color: #000000;
+  font-family: 'Montserrat', sans-serif;
+}
+#slider-3p P {
+  font-size: 16px;
+  font-family: 'Lato', sans-serif;
+}
+#slider-3p SPAN {
+  font-size: 22px;
+  font-family: 'Montserrat', sans-serif;
+  color: #000000;
+}
+#content6-3q P {
   font-family: 'Lato', sans-serif;
   font-size: 14px;
 }
