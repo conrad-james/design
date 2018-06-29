@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NOVEMBER16",
-    "currentPage": "Ghana.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.8.8",
-    "uniqCompNum": 171,
+    "uniqCompNum": 178,
     "versionPublish": "4.7.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -70,7 +70,7 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/sarasoti-view-2000x1428.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -113,6 +113,21 @@
                 "text": "<span style=\"font-style: normal;\">&nbsp;</span>website under construction",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/3d-1.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "<span style=\"font-weight: normal;\">&nbsp;</span>",
+                "showText": true,
+                "text": "&nbsp;website under construction<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
           },
@@ -149,71 +164,22 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box5",
+          "_name": "content6",
           "_styles": {
             "P": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "14px",
-              "text-align": "left"
-            },
-            "H3": {
-              "text-align": "left",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "14px"
-            },
-            "SPAN": {
               "font-size": "16px"
             }
           },
-          "_anchor": "msg-box5-4m",
+          "_anchor": "content6-4r",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "53",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
           },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/nhny-env-01.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<div></div>",
-          "text": "<span style=\"font-size: 14px; line-height: 1.5;\">We are a small London based architectural practice working in two distinct fields: Community based design, often for the charitable sector; and private residential design.</span><br><br><span style=\"font-size: 14px; line-height: 1.5;\">We aim to design beautiful, practical, inspiring living environments.&nbsp;Conrad has a wealth of experience in residential design, and has worked on many projects from small loft conversions to large multi unit developments.&nbsp;</span><span style=\"font-size: 14px; line-height: 1.5;\">However the experience of working in economically challenging environments has brought an added rigour and interest in cost effective design.</span><br><br><span style=\"font-size: 14px; line-height: 1.5;\">This work is often based in developing countries, within a different culture and climate, sometimes with considerable cost constraints and logistical construction challanges.&nbsp;</span><br><br>We are interested in low energy passive design, in the use of local materials, in economic construction, in technical innovation, and take inspiration from local vernacular, both traditional and modern.<br><br>Beyond the technical challanges, human issues necessarily dominate the brief. Here our role is to listen, to take a step back and question the brief,  question assumptions, and to translate thoughts and feelings into form.<br><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "text1": "<p>We are a small London based architectural practice working in two distinct fields: Community based design, often for the charitable sector; and private residential design.</p><p><br></p><p>\n</p><p>\n</p><p>We aim to design beautiful, practical, inspiring living environments. Conrad has a wealth of experience in residential design, and has worked on many projects from small loft conversions to large multi unit developments. However the experience of working in economically challenging environments has brought an added rigour and interest in cost effective design.</p><p><br></p><p>\n</p><p>\n</p><p>This work is often based in developing countries, within a different culture and climate, sometimes with considerable cost constraints and logistical construction challanges.</p><p><br></p><p> \n</p><p>\n</p><p>We are interested in low energy passive design, in the use of local materials, in economic construction, in technical innovation, and take inspiration from local vernacular, both traditional and modern.</p><p><br></p><p>\n</p><p>\n</p><p>Beyond the technical challanges, human issues necessarily dominate the brief. Here our role is to listen, to take a step back and question the brief, question assumptions, and to translate thoughts and feelings into form.\n</p><p>\n</p><p><br></p>",
+          "text2": ""
         },
         {
           "_tags": [
@@ -225,7 +191,7 @@
               "text-align": "left",
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "14px"
+              "font-size": "16px"
             },
             "H3": {
               "font-size": "16px",
@@ -371,7 +337,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CJ-STUDIO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal1.html\">Nepal 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"India.html\">India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal2.html\">Nepal 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"London1.html\">London 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ghana.html\">Ghana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"london3.html\">London 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-b\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-9\">TESTAMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-p\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-s\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"India.html\">India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal1.html\">Nepal 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal2.html\">Nepal 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ghana.html\">Ghana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"London1.html\">London 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"London2.html\" aria-expanded=\"false\">London 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"london3.html\">London 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-b\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-9\">TESTAMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-p\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-s\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -487,18 +453,18 @@
           "button3": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ny.jpg",
+              "src": "@PROJECT_PATH@/assets/images/india-1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "newyork.html",
+              "link": "India.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
             }
           },
-          "title4": "New York",
-          "subtitle4": "compact community",
+          "title4": "India",
+          "subtitle4": "tuktuk school",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"page4.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
@@ -566,18 +532,18 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/india.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ny-1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "India.html",
+              "link": "newyork.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
             }
           },
-          "title1": "India",
-          "subtitle1": "tuktuk school",
+          "title1": "New York",
+          "subtitle1": "compact community",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
@@ -850,7 +816,7 @@
           },
           "title3": "&nbsp;Scheme Design",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "aaa",
+          "caption3": "Once the basic layout and form have been agreed, the design is developed in co-ordination with relevant consultants, stakeholders and government or local authorities.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -865,7 +831,7 @@
           },
           "title4": "Detail Design",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "aaa",
+          "caption4": "Construction drawings and specifications are prepared for tender",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -956,59 +922,6 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fac51c",
-              "font-size": "72px",
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
-            },
-            ".mbr-section-title SPAN": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "100px"
-            },
-            ".mbr-section-lead": {
-              "font-size": "80px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#fac51c"
-            },
-            ".mbr-section-lead SPAN": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "100px"
-            }
-          },
-          "_anchor": "header1-2j",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/sarasoti-view-1-2000x1428-82-1.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#a07e49",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": "0.7"
-          },
-          "title": "",
-          "text": "<span style=\"font-style: normal;\"><br>fluxo studio</span><br><span style=\"font-style: normal;\"><br></span><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
-        },
-        {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
@@ -1046,11 +959,12 @@
     },
     "Ghana.html": {
       "settings": {
-        "title": "",
+        "title": "Ghana",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 1
       },
       "components": [
         {
@@ -1144,7 +1058,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CJ-STUDIO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal1.html\">Nepal 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"India.html\">India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal2.html\">Nepal 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"London1.html\">London 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ghana.html\">Ghana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"london3.html\">London 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-b\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-9\">TESTAMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-p\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-s\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"India.html\">India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal1.html\">Nepal 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal2.html\">Nepal 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ghana.html\">Ghana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"London1.html\">London 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"London2.html\" aria-expanded=\"false\">London 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"london3.html\">London 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-b\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-9\">TESTAMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-p\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-s\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -1255,11 +1169,12 @@
     },
     "newyork.html": {
       "settings": {
-        "title": "",
+        "title": "New York",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 2
       },
       "components": [
         {
@@ -1353,7 +1268,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CJ-STUDIO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal1.html\">Nepal 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"India.html\">India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal2.html\">Nepal 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"London1.html\">London 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ghana.html\">Ghana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"london3.html\">London 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-b\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-9\">TESTAMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-p\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-s\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"India.html\">India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal1.html\">Nepal 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal2.html\">Nepal 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ghana.html\">Ghana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"London1.html\">London 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"London2.html\" aria-expanded=\"false\">London 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"london3.html\">London 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-b\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-9\">TESTAMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-p\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-s\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -1692,7 +1607,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/nhny-env-011.jpg",
+              "src": "@PROJECT_PATH@/assets/images/nhny-env-01.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1809,11 +1724,12 @@
     },
     "London1.html": {
       "settings": {
-        "title": "",
+        "title": "London1",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 3
       },
       "components": [
         {
@@ -1907,7 +1823,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CJ-STUDIO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal1.html\">Nepal 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"India.html\">India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal2.html\">Nepal 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"London1.html\">London 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ghana.html\">Ghana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"london3.html\">London 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-b\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-9\">TESTAMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-p\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-s\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"India.html\">India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal1.html\">Nepal 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal2.html\">Nepal 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ghana.html\">Ghana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"London1.html\">London 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"London2.html\" aria-expanded=\"false\">London 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"london3.html\">London 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-b\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-9\">TESTAMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-p\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-s\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -2029,11 +1945,12 @@
     },
     "Nepal2.html": {
       "settings": {
-        "title": "",
+        "title": "Nepal2",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 4
       },
       "components": [
         {
@@ -2127,7 +2044,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CJ-STUDIO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal1.html\">Nepal 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"India.html\">India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal2.html\">Nepal 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"London1.html\">London 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ghana.html\">Ghana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"london3.html\">London 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-b\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-9\">TESTAMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-p\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-s\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"India.html\">India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal1.html\">Nepal 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal2.html\">Nepal 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ghana.html\">Ghana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"London1.html\">London 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"London2.html\" aria-expanded=\"false\">London 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"london3.html\">London 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-b\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-9\">TESTAMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-p\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-s\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -2296,11 +2213,12 @@
     },
     "Nepal1.html": {
       "settings": {
-        "title": "",
+        "title": "Nepal1",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 5
       },
       "components": [
         {
@@ -2394,7 +2312,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CJ-STUDIO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal1.html\">Nepal 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"India.html\">India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal2.html\">Nepal 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"London1.html\">London 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ghana.html\">Ghana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"london3.html\">London 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-b\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-9\">TESTAMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-p\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-s\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"India.html\">India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal1.html\">Nepal 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal2.html\">Nepal 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ghana.html\">Ghana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"London1.html\">London 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"London2.html\" aria-expanded=\"false\">London 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"london3.html\">London 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-b\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-9\">TESTAMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-p\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-s\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -2503,7 +2421,8 @@
     "India.html": {
       "settings": {
         "title": "tuktuk school",
-        "meta_descr": ""
+        "meta_descr": "",
+        "order": 6
       },
       "components": [
         {
@@ -2597,7 +2516,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CJ-STUDIO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal1.html\">Nepal 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"India.html\">India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal2.html\">Nepal 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"London1.html\">London 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ghana.html\">Ghana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"london3.html\">London 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-b\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-9\">TESTAMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-p\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-s\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"India.html\">India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal1.html\">Nepal 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal2.html\">Nepal 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ghana.html\">Ghana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"London1.html\">London 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"London2.html\" aria-expanded=\"false\">London 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"london3.html\">London 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-b\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-9\">TESTAMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-p\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-s\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -2806,390 +2725,15 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Tuktuk school, India</b></p><p><br></p><p>Tuktuk school is a new idea in education in cities of developing countries, aimed at the world's poorest children. We are currently working with Learning Planet to  realise a prototype school.</p><p><br></p><p>Tuktuks and bicycles are adapted to become portable teaching units, reaching out to urban migrant children of street and squatter settlements. A building is a focal point for the project. This centre will house the vehicles,  have workshops to adapt and service them as an on-going process, and will contain training and administrative facilities.</p><p><br></p><p>Most out-reach teaching projects are restricted to rural situations, where basic village schools can be supplemented by additional skills and equipment, or where the local community have no school to speak of. This project is for cities. Migrant children in urban situations may have even less educational opportunities, and more pressure to to spend their time earning. Although NGO’s are involved in slum education, generally illegally built squatter settlements will not have teaching facilities.</p><p><br></p><p>More information on the project can be found <a href=\"http://tuktukschool.wix.com/website\" target=\"_blank\">here,</a> and on Learning Planet's website, <a href=\"http://www.learningplanet.org.uk/tuk-tuk-school/\" target=\"_blank\">here</a>.</p><p><br></p>",
-          "text2": "<p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">Status: development</span><br></p><p>Client: Alutia</p><p>Partners: &nbsp;&nbsp;&nbsp;&nbsp;Learning Planet</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Sameep Padora</p><p><br></p>"
-        }
-      ]
-    },
-    "page8.html": {
-      "settings": {
-        "title": "tuktuk school",
-        "meta_descr": ""
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "color": "#fac51c",
-              "text-align": "left"
-            },
-            ".mbr-section-title SPAN": {
-              "text-align": "right"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-4b",
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButton": false,
-            "paddingTop": "5",
-            "paddingBottom": "2",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/cover1.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0"
-          },
-          "title": "<span style=\"font-size: 3rem; line-height: 1.1;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; tuk-tuk school</span><br>",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#fac51c"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#fac51c"
-            },
-            ".link, .dropdown-item": {
-              "color": "#fac51c",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-family": "'Lato', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#fac51c",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#fac51c!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-48",
-          "_params": {
-            "logo": false,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#ffffff",
-            "fontSize": "0.75",
-            "fontName": {
-              "name": "Lato",
-              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "css": "'Lato', sans-serif"
-            },
-            "fontColor": "#fac51c",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cj-127x128-34.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CJ-STUDIO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal1.html\">Nepal 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"India.html\">India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal2.html\">Nepal 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"London1.html\">London 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ghana.html\">Ghana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"london3.html\">London 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-b\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-9\">TESTAMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-p\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-s\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_styles": {
-            "P": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "14px"
-            }
-          },
-          "_anchor": "content6-4a",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p><b>Tuktuk school, India</b></p><p><br></p><p>Tuktuk school is a new idea in education in cities of developing countries, aimed at the world's poorest children. We are currently working with Learning Planet to  realise a prototype school.</p><p><br></p><p>Tuktuks and bicycles are adapted to become portable teaching units, reaching out to urban migrant children of street and squatter settlements. A building is a focal point for the project. This centre will house the vehicles,  have workshops to adapt and service them as an on-going process, and will contain training and administrative facilities.</p><p><br></p><p>Most out-reach teaching projects are restricted to rural situations, where basic village schools can be supplemented by additional skills and equipment, or where the local community have no school to speak of. This project is for cities. Migrant children in urban situations may have even less educational opportunities, and more pressure to to spend their time earning. Although NGO’s are involved in slum education, generally illegally built squatter settlements will not have teaching facilities.</p><p><br></p><p>More information on the project can be found <a href=\"http://tuktukschool.wix.com/website\" target=\"_blank\">here,</a> and on Learning Planet's website, <a href=\"http://www.learningplanet.org.uk/tuk-tuk-school/\" target=\"_blank\">here</a>.</p><p><br></p>",
-          "text2": "<p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">Status: development</span><br></p><p>Client: Alutia</p><p>Partners: &nbsp;&nbsp;&nbsp;&nbsp;Learning Planet</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Sameep Padora</p><p><br></p>"
-        }
-      ]
-    },
-    "London2.html": {
-      "settings": {},
-      "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-4i",
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButton": false,
-            "paddingTop": "5",
-            "paddingBottom": "5",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/20180218.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0"
-          },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "text-align": "right"
-            },
-            "SMALL": {
-              "text-align": "right"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-4k",
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "title": "&nbsp;&nbsp;",
-          "meta": "By John Smith posted July 20, 2016"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-4j",
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButton": false,
-            "paddingTop": "5",
-            "paddingBottom": "5",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/20180526.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0"
-          },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#fac51c"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#fac51c"
-            },
-            ".link, .dropdown-item": {
-              "color": "#fac51c",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-family": "'Lato', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#fac51c",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#fac51c!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-4d",
-          "_params": {
-            "logo": false,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#ffffff",
-            "fontSize": "0.75",
-            "fontName": {
-              "name": "Lato",
-              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "css": "'Lato', sans-serif"
-            },
-            "fontColor": "#fac51c",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cj-127x128-34.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CJ-STUDIO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal1.html\">Nepal 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"India.html\">India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal2.html\">Nepal 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"London1.html\">London 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ghana.html\">Ghana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"london3.html\">London 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-b\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-9\">TESTAMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-p\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-s\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_styles": {
-            "P": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "14px"
-            }
-          },
-          "_anchor": "content6-4f",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p><b>Loft extension, SW London</b></p><p><br></p><p>Our brief was for a major alteration to a family house in a London conservation area. The generous house extension consists of a new basement under part of the existing garden, a ground floor kitchen, dining and living area, a first floor extension and terrace, as well as various alterations to rationalise the existing layout.</p><p><br></p><p>Many design options were explored to achieve the clients vision and make the most of the site.</p><p><br></p><p>Abstracted 3D visulas were produced to illustrate the spatial qualities of the rooms without revealing the finishes, at this design stage.</p><p><br></p><p><br></p>",
-          "text2": "<p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">Status: Complete</span></p><p><span style=\"line-height: 1.5;\">Client: Private</span></p><p><span style=\"line-height: 1.5;\"><br></span></p>"
+          "text1": "<p><b>Tuktuk school, India</b></p><p><br></p><p>Tuktuk school is a new idea in education in cities of developing countries, aimed at the world's poorest children. We are currently working with Learning Planet to  realise a prototype school.</p><p><br></p><p>Tuktuks and bicycles are adapted to become portable teaching units, reaching out to urban migrant children of street and squatter settlements. A building is a focal point for the project. This centre will house the vehicles,  have workshops to adapt and service them as an on-going process, and will contain training and administrative facilities.</p><p><br></p><p>Most out-reach teaching projects are restricted to rural situations, where basic village schools can be supplemented by additional skills and equipment, or where the local community have no school to speak of. This project is for cities. Migrant children in urban situations may have even less educational opportunities, and more pressure to to spend their time earning. Although NGO’s are involved in slum education, generally illegally built squatter settlements will not have teaching facilities.</p><p><br></p><p>More information on the project can be found <a href=\"http://tuktukschool.wix.com/website\" target=\"_blank\">here,</a> and on Learning Planet's website, <a href=\"http://www.learningplanet.org.uk/tuk-tuk-school/\" target=\"_blank\">here</a>.</p><p><br></p><p>Status: development\n</p><p>Partners:     Learning Planet\n</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sameep Padora</p><p><br></p>",
+          "text2": ""
         }
       ]
     },
     "london3.html": {
       "settings": {
-        "title": "London3"
+        "title": "London3",
+        "order": 7
       },
       "components": [
         {
@@ -3283,7 +2827,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CJ-STUDIO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal1.html\">Nepal 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"India.html\">India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal2.html\">Nepal 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"London1.html\">London 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ghana.html\">Ghana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"london3.html\">London 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-b\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-9\">TESTAMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-p\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-s\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"India.html\">India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal1.html\">Nepal 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal2.html\">Nepal 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ghana.html\">Ghana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"London1.html\">London 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"London2.html\" aria-expanded=\"false\">London 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"london3.html\">London 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-b\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-9\">TESTAMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-p\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-s\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -3320,7 +2864,7 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/b1-5.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -3332,6 +2876,51 @@
                 "showText": true,
                 "text": "<span style=\"font-style: normal;\">Private House</span>",
                 "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"London3.html#content6-3q\" data-toolbar=\"-mbrBtnMove\">TEXT</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/gf1-1.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.2",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "&nbsp;",
+                "showText": false,
+                "text": "<span style=\"font-style: normal;\">Private House</span>",
+                "showButtons": false,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"London3.html#content6-3q\" data-toolbar=\"-mbrBtnMove\">TEXT</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/gf2-1.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.2",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "&nbsp;",
+                "showText": false,
+                "text": "<span style=\"font-style: normal;\">Private House</span>",
+                "showButtons": false,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"London3.html#content6-3q\" data-toolbar=\"-mbrBtnMove\">TEXT</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/gf3-1.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.2",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "&nbsp;",
+                "showText": false,
+                "text": "<span style=\"font-style: normal;\">Private House</span>",
+                "showButtons": false,
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"London3.html#content6-3q\" data-toolbar=\"-mbrBtnMove\">TEXT</a>"
               }
             ]
@@ -3359,6 +2948,212 @@
           },
           "text1": "<p><b>Private House, London</b></p><p><br></p><p>Our brief was for a major alteration to a family house in a London conservation area. The generous house extension consists of a new basement under part of the existing garden, a ground floor kitchen, dining and living area, a first floor extension and terrace, as well as various alterations to rationalise the existing layout.</p><p><br></p><p>Many design options were explored to achieve the clients vision and make the most of the site.</p><p><br></p><p>Abstracted 3D visulas were produced to illustrate the spatial qualities of the rooms without revealing the finishes, at this design stage.</p><p><br></p><p><br></p>",
           "text2": "<p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">Status: Planning permission obtained</span></p><p><span style=\"line-height: 1.5;\">Client: Private</span></p><p><span style=\"line-height: 1.5;\"><br></span></p>"
+        }
+      ]
+    },
+    "London2.html": {
+      "settings": {
+        "title": "London2",
+        "order": 8
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#fac51c"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#fac51c"
+            },
+            ".link, .dropdown-item": {
+              "color": "#fac51c",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#fac51c",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#fac51c!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#fac51c",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cj-127x128-34.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CJ-STUDIO</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"India.html\">India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal1.html\">Nepal 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Nepal2.html\">Nepal 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ghana.html\">Ghana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"London1.html\">London 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"London2.html\" aria-expanded=\"false\">London 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"london3.html\">London 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-b\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-9\">TESTAMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-p\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-s\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_anchor": "ext_menu-4s"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "H2": {
+              "font-size": "48px",
+              "text-align": "left",
+              "color": "#000000",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "font-size": "16px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "SPAN": {
+              "font-size": "22px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "autoplay": false,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dsc-5953a.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.2",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "LONDON 2&nbsp;",
+                "showText": true,
+                "text": "<span style=\"font-style: normal;\">Kitchen extension</span>",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"London3.html#content6-3q\" data-toolbar=\"-mbrBtnMove\">TEXT</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dsc-5938a.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.2",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "&nbsp;",
+                "showText": false,
+                "text": "<span style=\"font-style: normal;\">Private House</span>",
+                "showButtons": false,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"London3.html#content6-3q\" data-toolbar=\"-mbrBtnMove\">TEXT</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/dsc-5911a.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.2",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "&nbsp;",
+                "showText": false,
+                "text": "<span style=\"font-style: normal;\">Private House</span>",
+                "showButtons": false,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"London3.html#content6-3q\" data-toolbar=\"-mbrBtnMove\">TEXT</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_anchor": "slider-4t"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Kitchen extension, London</b></p><p><br></p><p>A kitchen extension to a family house in a London conservation area.&nbsp;</p><p>The space has been given a generous feel by eating into the unused 'L' part of the living room behind, and by lowering the floor one further step. The carefullly chosen pallette of materials, including stained oak flooring, beech ply joinery and a matt grey kitchen with yellow splashback, contribute to the warm character of the room. A high 'G' value was specified for the large rooflight, in order to reduce solar gain. Rather than having &nbsp;a conventional set of opening doors, a &nbsp;large window seat with bi-folding doors &nbsp;forms a differnet relationship to the garden.</p><p><br></p><p><br></p><p>\nStatus: Complete&nbsp;</p><p>Client: Private\n</p><p><br></p><p><br></p>",
+          "text2": "<p><br></p>",
+          "_anchor": "content6-4u"
         }
       ]
     }
