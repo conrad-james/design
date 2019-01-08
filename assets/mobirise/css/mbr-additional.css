@@ -20,6 +20,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -528,6 +530,12 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #features3-59 H4 {
+  font-family: 'Montserrat', sans-serif;
+}
+#features3-65 H5 {
+  font-family: 'Open Sans', sans-serif;
+}
+#features3-65 H4 {
   font-family: 'Montserrat', sans-serif;
 }
 #header3-b .mbr-section-title,
@@ -1514,6 +1522,10 @@ h6,
   font-size: 16px;
 }
 
+
+
+
+
 #ext_menu-61 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1575,4 +1587,23 @@ h6,
 #ext_menu-61 .link[aria-expanded="true"],
 #ext_menu-61 .dropdown-item[aria-expanded="true"] {
   color: #fac51c!important;
+}
+#slider-62 H2 {
+  font-size: 48px;
+  text-align: left;
+  color: #000000;
+  font-family: 'Montserrat', sans-serif;
+}
+#slider-62 P {
+  font-size: 16px;
+  font-family: 'Lato', sans-serif;
+}
+#slider-62 SPAN {
+  font-size: 22px;
+  font-family: 'Montserrat', sans-serif;
+  color: #000000;
+}
+#content6-63 P {
+  font-family: 'Lato', sans-serif;
+  font-size: 14px;
 }
